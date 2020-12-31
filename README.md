@@ -32,6 +32,12 @@ Exit with CTRL+C.
 > 
 ```
 
+## support ungzip
+
+```
+$ ws ws://echo.websocket.org true
+```
+
 ## License
 
 MIT
